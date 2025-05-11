@@ -89,6 +89,6 @@ src/
 
 ## 📞 İletişim
 
-Proje Sahibi - [@github-username](https://github.com/BRTCLK)
+Proje Sahibi - [@BRTCLK](https://github.com/BRTCLK)
 
 Proje Linki: [https://github.com/BRTCLK/spor-center-react](https://github.com/BRTCLK/spor-center-react)
